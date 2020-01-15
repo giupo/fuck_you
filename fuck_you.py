@@ -8,7 +8,6 @@ from pymouse import PyMouse
 
 
 class FuckYou(object):
-
     def __init__(self):
         self.mouse = PyMouse()
 
